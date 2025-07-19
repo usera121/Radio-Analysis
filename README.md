@@ -1,9 +1,11 @@
 # Analysis of Polish Radio Stations - 2024-2025
 Exploratory Data Analysis of Polish radio airplay: music trends and premieres (Python)
+[Open the interactive HTML report (GitHub Pages)](https://usera121.github.io/Radio-Analysis/Analysis_of_Polish_Radio_Stations_Report.html)
 
 ## Project Overview
 
-[This report](./Analysis_of_Polish_Radio_Stations_Report.html) presents an analysis of music tracks played across **13 Polish radio stations** between **January 1, 2024** and **June 16, 2025**.  
+[This report](https://usera121.github.io/Radio-Analysis/Analysis_of_Polish_Radio_Stations_Report.html) presents an analysis of music tracks played across **13 Polish radio stations** between **January 1, 2024** and **June 16, 2025**.  
+
 The analysis focuses on:
 
 - Track and artist popularity
@@ -57,8 +59,8 @@ Files are named by date and aggregated during preprocessing.
 
 ## Outcomes
 
-- [Interactive HTML report: trends, rankings, premiere tracking](./Analysis_of_Polish_Radio_Stations_Report.html)
-- Jupyter Notebook: full end-to-end analysis pipeline – from data loading to visualizations  
+- [Open the interactive HTML report (GitHub Pages)](https://usera121.github.io/Radio-Analysis/Analysis_of_Polish_Radio_Stations_Report.html)
+- Jupyter Notebook: full end-to-end analysis pipeline  
   - [View in Jupyter Notebook (.ipynb)](./Radio_Analysis_Notebook.ipynb)
   - [View as HTML (.html)](./Radio_Analysis_Notebook.html)
 
