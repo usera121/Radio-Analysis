@@ -55,7 +55,7 @@ The analysis focuses on:
 
 ## Data
 
-Raw data (not included here) consists of daily CSV files, each representing airplay logs from multiple radio stations.  
+Raw data (not included here) consists of daily XLSX and CSV files, each representing airplay logs from multiple radio stations.  
 Files are named by date and aggregated during preprocessing.
 
 ## Outcomes
